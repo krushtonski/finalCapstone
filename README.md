@@ -4,7 +4,7 @@ This Python script performs sentiment analysis on product reviews on Amazon usin
 
 ### Pre requisites
 
-You need to have the following installed on your Terminal or equivalent:
+You need to have the following installed on your Terminal or equivalent:                  
 
 ### spacy for NLP
 python -m spacy download en_core_web_md
@@ -37,3 +37,5 @@ Review Similarity Comparison: Compare the similarity between two selected review
 
 
 ### Images
+
+![Model](Image.png)
