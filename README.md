@@ -18,7 +18,7 @@ python -m textblob.download_corpora  
 Install pandas
 
 Additionally, you need to download the spaCy English language models:
-
+                                          
 python -m spacy download en_core_web_sm
 python -m spacy download en_core_web_md
 
