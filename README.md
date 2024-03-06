@@ -2,17 +2,20 @@
 
 This Python script performs sentiment analysis on product reviews on Amazon using NLP and gives the sentiment polarity (positive or negative) of review text and also shows the similarit between two different reviews. It uses SpaCy and Spacytextblob libraries. 
 
-- [Pre requisites] (#Pre requisites)
-
 ### Pre requisites
 
 You need to have the following installed on your Terminal or equivalent:
 
-spacy for NLP
+### spacy for NLP
+python -m spacy download en_core_web_md
 
-spacytextblob for sentiment analysis
+### spacytextblob for sentiment analysis
+# Install spacytextblob 
+pip install spacytextblob 
+python -m textblob.download_corpora  
 
-pandas for data visualisation and analysis 
+### pandas for data visualisation and analysis 
+Install pandas
 
 Additionally, you need to download the spaCy English language models:
 
