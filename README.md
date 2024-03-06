@@ -2,6 +2,8 @@
 
 This Python script performs sentiment analysis on product reviews on Amazon using NLP and gives the sentiment polarity (positive or negative) of review text and also shows the similarit between two different reviews. It uses SpaCy and Spacytextblob libraries. 
 
+- [Pre requisites] (#Pre requisites)
+
 ### Pre requisites
 
 You need to have the following installed on your Terminal or equivalent:
