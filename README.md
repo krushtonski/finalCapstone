@@ -38,4 +38,4 @@ Review Similarity Comparison: Compare the similarity between two selected review
 
 ### Images
 
-![Model](Image.png)
+![Model](https://github.com/krushtonski/finalCapstone/blob/88968768df67f1fa9a950d928764bcaa97ad999d/Image.png)
